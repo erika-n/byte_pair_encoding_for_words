@@ -41,15 +41,12 @@ Another example is
 
 which accurately splits the word "precisely" into parts and joins them as a larger unit.
 
-
+The purpose of this project is to demonstrate the power of this very simple technique to find word-like patterns in text. 
 
 ### Usage
 python byte_pair_encoding_for_words.py
 
 The files under output show the output of this program.
 
-### Notes
 
-This is not by any means the most efficient implementation of byte pair encoding and is not intended for production use, it is a demonstration only.
 
-This is also not a production product for word segmentation. The point is to demonstrate the power of this very simple technique to find word-like patterns in text.
