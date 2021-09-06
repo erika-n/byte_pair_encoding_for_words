@@ -46,7 +46,7 @@ The purpose of this project is to demonstrate the power of this very simple tech
 ### Usage
 python byte_pair_encoding_for_words.py
 
-The files under output show the output of this program.
+The files under output show the output of this program as applied to the text of Jane Austen's Persuasion.
 
 
 
