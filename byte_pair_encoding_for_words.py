@@ -150,6 +150,6 @@ if __name__ == "__main__":
 
     text = corpus.gutenberg.words('austen-persuasion.txt')
     print('words:', len(text))
-    limit=1000
-    print('limit:', limit)
-    run(model_name, text, build=True, limit=limit)
+    word_limit=100000
+    print('limit:', word_limit)
+    run(model_name, text, build=True, limit=word_limit)
